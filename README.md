@@ -1,3 +1,7 @@
+![image](https://github.com/sreshtech/sreshta_drum_machine.github.io/assets/121309862/a654c0f8-f164-43f0-b2e0-9507f7cfc6d0)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
